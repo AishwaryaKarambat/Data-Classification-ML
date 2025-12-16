@@ -1,22 +1,21 @@
-# Data Classification & Predictive Modeling
+# Trackable Project Management & Automation
 
 ## 📌 Overview
-Built machine learning models using Naïve Bayes and Decision Trees to classify datasets and generate actionable insights. Focused on transforming complex data into business-relevant insights for decision-making.
+Enhanced system monitoring tools to track project tasks and generate actionable reports. Focused on improving operational efficiency and supporting data-driven decision-making.
 
 ## 🛠️ Technologies Used
-- Python, Pandas, NumPy, Scikit-learn
-- Data Cleaning, Data Visualization
+- Python, SQL, Excel  
+- Automation scripts, Data Visualization
 
 ## 🔥 Features
-- Real-time classification of datasets
-- Detection of spam emails
-- Identification of liver disease patients
-- Preprocessing and visualization of data for model evaluation
+- Real-time task tracking and reporting  
+- Automation scripts to improve data accuracy  
+- Dashboards to visualize project performance for stakeholders
 
 ## 📅 Future Improvements
-- Implement additional ML algorithms for improved accuracy
-- Optimize dataset processing for large-scale data
+- Integrate with Power BI for interactive analytics dashboards  
+- Implement predictive analytics to forecast task completion and bottlenecks
 
 ## 💡 Skills Highlight
-- Python, Data Analysis, Data Visualization
-- Translating data into actionable business insights
+- Python, SQL, Excel, Data Visualization  
+- Translating operational data into actionable business insights
