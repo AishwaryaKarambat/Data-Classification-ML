@@ -1,17 +1,22 @@
-# Data Classification using Machine Learning
+# Data Classification & Predictive Modeling
 
-## 📌 Description  
-This project implements Naïve Bayes Classifier and Decision Trees for real-time dataset classification. It is used to detect spam emails and identify liver disease patients.  
+## 📌 Overview
+Built machine learning models using Naïve Bayes and Decision Trees to classify datasets and generate actionable insights. Focused on transforming complex data into business-relevant insights for decision-making.
 
-## 🛠️ Technologies Used  
-- **Language:** Python  
-- **Tools:** MATLAB  
+## 🛠️ Technologies Used
+- Python, Pandas, NumPy, Scikit-learn
+- Data Cleaning, Data Visualization
 
-## 🔥 Features  
-- Real-time classification of datasets  
-- Detection of spam emails  
-- Identification of liver disease patients  
+## 🔥 Features
+- Real-time classification of datasets
+- Detection of spam emails
+- Identification of liver disease patients
+- Preprocessing and visualization of data for model evaluation
 
-## 📅 Future Improvements  
-- Implementing more ML algorithms for better accuracy  
-- Optimizing dataset processing for large-scale data  
+## 📅 Future Improvements
+- Implement additional ML algorithms for improved accuracy
+- Optimize dataset processing for large-scale data
+
+## 💡 Skills Highlight
+- Python, Data Analysis, Data Visualization
+- Translating data into actionable business insights
